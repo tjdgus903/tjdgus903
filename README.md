@@ -1,14 +1,9 @@
-<!-- Header -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Sunghyun%20Kim&fontSize=40&fontAlignY=35"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=sunghyun's%20GitHub&fontSize=42" />
 
-<div align="center">
+<div align=center>
+<h3>반갑습니다! 김성현입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+</h3>
 
-### 👋 Hi, I'm Sunghyun  
-Backend Engineer · Java / Kotlin · Spring Boot
-
-<br/>
 
 <!-- Links -->
 <a href="https://github.com/tjdgus903">
@@ -21,13 +16,9 @@ Backend Engineer · Java / Kotlin · Spring Boot
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
-</div>
 
----
+📚 Languages / Library / Tools 📚
 
-## 🛠 Tech Stack
-
-<div align="center">
 
 ### Backend
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
@@ -50,44 +41,14 @@ Backend Engineer · Java / Kotlin · Spring Boot
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white"/>
 
-</div>
+### etc ###
 
----
+  
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 📊 GitHub Stats
+<a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
+![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-<div align="center">
-
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api?username=tjdgus903&show_icons=true&theme=transparent&hide_border=true"
-/>
-
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdgus903&layout=compact&langs_count=6&theme=transparent&hide_border=true"
-/>
-
-</div>
-
----
-
-## 🧩 Architecture Keywords
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Event--Driven-111827?style=flat"/>
-<img src="https://img.shields.io/badge/CQRS-111827?style=flat"/>
-<img src="https://img.shields.io/badge/Transactional%20Design-111827?style=flat"/>
-<img src="https://img.shields.io/badge/Observability-111827?style=flat"/>
-<img src="https://img.shields.io/badge/Performance-111827?style=flat"/>
-
-</div>
-
----
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=26"
-  />
-</div>
